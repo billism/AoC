@@ -1,3 +1,6 @@
+# DON'T SHARE YOUR INPUT
+**/input.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
